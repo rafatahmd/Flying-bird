@@ -1,2 +1,2 @@
 # Flying-bird
-a game
+A servival Game. Players task is to keep alive the bird from various obstackle
